@@ -1,0 +1,4 @@
+tarea
+=====
+
+uso de Git
